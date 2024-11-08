@@ -1,0 +1,1 @@
+iwr -useb https://raw.githubusercontent.com/YourRepo/Install-RustDeskLocal.ps1 | iex
